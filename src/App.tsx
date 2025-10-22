@@ -225,7 +225,7 @@ const App: React.FC = () => {
           <br />
           Crafted with conviction by{" "}
           <a
-            href="https://x.com/MohdSarim0"
+            href="https://x.com/TheEren123_"
             target="_blank"
             rel="noopener noreferrer"
             className="footer-link"
