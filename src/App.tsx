@@ -235,7 +235,7 @@ const App: React.FC = () => {
             rel="noopener noreferrer"
             className="footer-link"
           >
-            @MohdSarim0{" "}
+            @TheEren123_{" "}
           </a>
           • Discord: sarimbby
         </p>
